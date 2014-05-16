@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(40, 40, 40);
+  font-family: georgia, serif;
+  font-size: 14px;
+  color: rgb(153, 153, 153);
+  background-image: url('./images/bg.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: scroll;
+}
+
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+#main {
+  position: static;
+  width: 850px;
+  z-index: 1;
+  margin: 0 auto;
+  padding: 0px;
+  align: center;
+}
+
+#content {
+  position: absolute;
+  top: 149px;
+  width: 850px;
+  text-align: center;
+}
