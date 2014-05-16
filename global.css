@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(40, 40, 40);
+  background-color: rgb(0, 0, 0);
   font-family: georgia, serif;
   font-size: 14px;
-  color: rgb(153, 153, 153);
-  background-image: url('./images/bg.png');
+  color: rgb(185, 185, 185);
+  background-image: url('./images/bg-mikko.jpg');
   background-repeat: no-repeat;
   background-position: top center;
   background-attachment: scroll;
@@ -19,7 +19,7 @@ a {
   width: 850px;
   z-index: 1;
   margin: 0 auto;
-  padding: 0px;
+  padding: 20px;
   align: center;
 }
 
