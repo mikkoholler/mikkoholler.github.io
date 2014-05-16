@@ -27,3 +27,10 @@ h1 {
   align: left;
 }
 
+@media handheld {
+ #main {
+  width: 400px;
+ }
+
+}
+
